@@ -1,6 +1,6 @@
 # ec-luart-uiborder
 
-This project provides various extension ui objects for [LuaRT](https://www.luart.org/).
+This project provides various border ui objects for [LuaRT](https://www.luart.org/).
 It has been designed to simplify and improve the creation of graphical user interfaces with the LuaRT ui module.
 
 [![LuaRT 2.1.0](https://badgen.net/badge/LuaRT/2.1.0/blue)](https://github.com/samyeyo/LuaRT)
