@@ -1,3 +1,5 @@
+--! luart-extensions
+
 local ui = require("ui")
 local uibd = require("ecluart.uiborder")
 
@@ -8,4 +10,4 @@ label.fontsize = 16
 label:autosize()
 label:center()
 
-ui.run(win):wait()
+await win:showasync()
